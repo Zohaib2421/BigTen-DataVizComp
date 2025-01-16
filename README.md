@@ -4,9 +4,9 @@
 <img width="868" alt="Screenshot 2025-01-16 at 12 38 14 AM" src="https://github.com/user-attachments/assets/e78be2e3-98df-4cb4-8466-8ef219cd9855" />
 
 ##
-Name: Zohaib Shaikh, Deva Pushkaran
-Huskers email address: zshaikh2@huskers.unl.edu, dpushkaran2@huskers.unl.edu
-GitHub URL: https://github.com/Zohaib2421/BigTen-DataVizComp
+Name: Zohaib Shaikh, Deva Pushkaran\
+Huskers email address: zshaikh2@huskers.unl.edu, dpushkaran2@huskers.unl.edu\
+GitHub URL: https://github.com/Zohaib2421/BigTen-DataVizComp\
 Binder URL: 
 
 ## Description:
